@@ -1,0 +1,18 @@
+{
+ "name": "May studio",
+ "short_name": "May studio",
+ "lang": "ru",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#f6f4f1",
+ "theme_color": "#BB6082",
+ "icons": [
+  {
+   "src": "icon.svg",
+   "sizes": "any",
+   "type": "image/svg+xml",
+   "purpose": "any maskable"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "name": "Гармония",
+ "short_name": "Гармония",
+ "lang": "ru",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#f6f4f1",
+ "theme_color": "#C66381",
+ "icons": [
+  {
+   "src": "icon.svg",
+   "sizes": "any",
+   "type": "image/svg+xml",
+   "purpose": "any maskable"
+  }
+ ]
+}
