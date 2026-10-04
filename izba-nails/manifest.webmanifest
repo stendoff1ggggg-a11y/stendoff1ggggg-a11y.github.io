@@ -1,0 +1,18 @@
+{
+ "name": "Izba nails",
+ "short_name": "Izba nails",
+ "lang": "ru",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#f6f4f1",
+ "theme_color": "#C46A87",
+ "icons": [
+  {
+   "src": "icon.svg",
+   "sizes": "any",
+   "type": "image/svg+xml",
+   "purpose": "any maskable"
+  }
+ ]
+}

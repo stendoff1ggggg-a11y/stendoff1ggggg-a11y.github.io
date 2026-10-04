@@ -1,0 +1,18 @@
+{
+ "name": "Mademuazel",
+ "short_name": "Mademuazel",
+ "lang": "ru",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#f6f4f1",
+ "theme_color": "#CB728D",
+ "icons": [
+  {
+   "src": "icon.svg",
+   "sizes": "any",
+   "type": "image/svg+xml",
+   "purpose": "any maskable"
+  }
+ ]
+}
